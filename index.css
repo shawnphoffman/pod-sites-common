@@ -4,17 +4,17 @@
 	--white: #fff;
 
 	/* BRANDS */
-	--applePodcasts: #872ec4;
+	--applepodcasts: #872ec4;
 	--spotify: #16883e;
 	--twitter: #0d7ac4;
-	--teePublic: #374ecd;
+	--teepublic: #374ecd;
 	--overcast: #be5a01;
 	--youtube: #ee0000;
-	--googlePodcasts: #206ff2;
+	--googlepodcasts: #206ff2;
 	--goodpods: #fcdb00;
-	--amazonMusic: #0077c1;
+	--amazonmusic: #0077c1;
 	--iheart: #c6002b;
-	--pocketCasts: #ea150d;
+	--pocketcasts: #ea150d;
 	--castbox: #db3c0e;
 	--zencastr: #1474e0;
 	--rss: #ce4a0c;
@@ -22,7 +22,9 @@
 	--bluesky: #0560ff;
 	--instagram: #c13584;
 	--etsy: #f56400;
-	--radioPublic: #ce262f;
+	--radiopublic: #ce262f;
+	--podbean: #5f7e1b;
+	--googlepodcasts: #206ff2;
 	/* --xxx: #xxx; */
 
 	/* MISC */
