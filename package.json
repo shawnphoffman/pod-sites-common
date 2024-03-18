@@ -1,0 +1,11 @@
+{
+	"name": "@shawnphoffman/pod-sites-common",
+	"version": "0.0.1",
+	"description": "Shared styling and other stuff for my podcast sites",
+	"license": "MIT",
+	"main": "index.css",
+	"scripts": {},
+	"publishConfig": {
+		"registry": "https://npm.pkg.github.com/"
+	}
+}
